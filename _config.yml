@@ -14,14 +14,8 @@ default_img: /assets/images/seo.jpg
 social:
   - name: twitter
     url: https://twitter.com/j_armstrng
-  - name: instagram
-    url:
   - name: linkedin
     url: https://www.linkedin.com/in/jarmstrng/
-  - name: github
-    url: https://github.com/jarmstrng
-  - name: codepen
-    url:
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
