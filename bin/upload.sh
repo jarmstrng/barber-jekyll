@@ -2,8 +2,8 @@
 
 set -e
 
-BUCKET=
-DISTRIBUTION_ID=
+BUCKET=work-website-bucket-q6k585jsxn18
+DISTRIBUTION_ID=ESPXEIVXE23NG
 
 echo "Uploading [${SITE_DIR}] to [${BUCKET}]."
 
