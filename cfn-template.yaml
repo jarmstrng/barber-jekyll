@@ -13,7 +13,7 @@ Parameters:
 
   ValidationDomain:
     Type: String
-    Default: "jessicaarmstrong.io."
+    Default: "jessicaarmstrong.io"
 
   RefererSecret:
     Type: String
@@ -114,10 +114,3 @@ Resources:
           ValidationDomain: !Ref ValidationDomain
         - DomainName: !Join ['.', ['*', !Ref DomainName]]
           ValidationDomain: !Ref ValidationDomain
-
-  OriginAccessIdentity:
-    Type: AWS::CloudFront::CloudFrontOriginAccessIdentity
-    Properties:
-      CloudFrontOriginAccessIdentityConfig:
-        Comment: !Ref Bucket
-
