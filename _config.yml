@@ -25,7 +25,7 @@ formcarry: https://formcarry.com/s/oGNo-4hJrWM
 disqus:
 
 # MailChimp settings
-mailchimp_action: https://jessicaarmstrong.us4.list-manage.com/subscribe/post?u=b502b7e4cc5041e4c1086609c&amp;id=52fa5cfb76
+mailchimp_action: https://jessicaarmstrong.us4.list-manage.com/subscribe/post-json?u=b502b7e4cc5041e4c1086609c&amp;id=52fa5cfb76
 mailchimp_input: b_b502b7e4cc5041e4c1086609c_52fa5cfb76
 
 # Author settings
